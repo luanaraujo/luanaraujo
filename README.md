@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luan</h1>
 <h3 align="center">I am currently pursuing a degree in Analysis and Systems Development, and I previously completed a four-year program in Computer Science at the University Center Filadélfia - UniFil. I am continuously deepening my knowledge in the field of systems development, always striving for more knowledge, and with a strong desire to put everything into practice. I remain highly motivated to learn whatever is necessary to grow in this field.</h3>
 
-- 🌱 I’m currently learning **more about Java, Javascript, React and Javascript in my current course at UNIFIL and in some additional courses at Udemy.**
+- 🌱 I’m currently learning **more about Java, Javascript, React and Javascript in my current degree at UNIFIL and in some additional courses at Udemy.**
 
 - 👨‍💻 All of my projects are available at [https://luanaraujo-portfolio.vercel.app/](https://luanaraujo-portfolio.vercel.app/)
 
