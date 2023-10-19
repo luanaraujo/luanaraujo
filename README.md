@@ -43,4 +43,5 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaraujo&theme=dark&show_icons=true&locale=en" alt="luanaraujo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luanaraujo&theme=dark&show_icons=true&locale=en" alt="luanaraujo" /></p>
 
