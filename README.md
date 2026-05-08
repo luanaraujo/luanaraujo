@@ -45,4 +45,18 @@ These are some of the technologies and tools that I work with:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaraujo&theme=dark&show_icons=true&locale=en" alt="luanaraujo" /></p>
+<br />
+
+<div align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=luanaraujo&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    alt="Luan's GitHub stats"
+  />
+
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaraujo&layout=compact&theme=dark&hide_border=true"
+    alt="Most used languages"
+  />
+</div>
