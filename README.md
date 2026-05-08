@@ -48,15 +48,19 @@ These are some of the technologies and tools that I work with:
 <br />
 
 <div align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=luanaraujo&show_icons=true&theme=dark&hide_border=true&count_private=true"
-    alt="Luan's GitHub stats"
-  />
+  <a href="https://github.com/luanaraujo">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=luanaraujo&show_icons=true&theme=dark&hide_border=true"
+      alt="Luan's GitHub stats"
+    />
+  </a>
 
-  <img
-    width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaraujo&layout=compact&theme=dark&hide_border=true"
-    alt="Most used languages"
-  />
+  <a href="https://github.com/luanaraujo">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=luanaraujo&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=320"
+      alt="Most used languages"
+    />
+  </a>
 </div>
